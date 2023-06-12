@@ -48,7 +48,7 @@ Features only single "coin" transactions
 
 ### Mining
 
-- Take **tr-count-1** valid transactions and a reward coin for the miner (incentive to be honest)
+- Take **tr_count-1** valid transactions and a reward coin for the miner (incentive to be honest)
 - Use these transactions to create a transaction block and add it to the blockchain
 
 ### Initiate Currency
