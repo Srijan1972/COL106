@@ -1,4 +1,4 @@
-# COL106
+# Data Structures and Algorithms
 
 This repository contains all the solutions to programming assignments given in the COL106 (Data Structures and Algorithms) course of IIT Delhi
 
